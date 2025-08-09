@@ -321,7 +321,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Email**: kunalchandra2506@gmail.com
 - **GitHub**: [https://github.com/Kunalchandra007/IIITDELHI-hackathon](Repo)
-- **Project**: [https://iiitdelhi-hackathon.vercel.app/](Link)
+- **Project**: [Deployment Link](https://iiitdelhi-hackathon.vercel.app/)
+
 
 ---
 
