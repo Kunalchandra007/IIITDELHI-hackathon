@@ -39,7 +39,8 @@ A revolutionary PWA that addresses these challenges through cutting-edge AI tech
 
 <div align="center">
 
-![ASHA Health Assistant Dashboard](https://via.placeholder.com/800x400/2563eb/ffffff?text=ASHA+Health+Assistant+Dashboard)
+![ASHA Health Assistant Dashboard](logo.jpg)
+
 
 *Multi-language interface with AI-powered medical analysis and emergency alert system*
 
