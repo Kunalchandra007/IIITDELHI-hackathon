@@ -127,7 +127,7 @@ npm run dev:full
 ### Access the Application
 - **Frontend**: http://localhost:5173
 - **Backend API**: http://localhost:3001
-- **Live Demo**: https://asha-health-assistant.vercel.app
+- **Live Demo**: [Live Demo](https://iiitdelhi-hackathon.vercel.app/)
 
 ---
 
