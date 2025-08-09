@@ -319,9 +319,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Team Rocket Boys 🚀**
 
-- **Email**: cg077593@gmail.com
-- **GitHub**: [https://github.com/rocket-boys](https://github.com/rocket-boys)
-- **Project**: [https://github.com/rocket-boys/asha-health-assistant](https://github.com/rocket-boys/asha-health-assistant)
+- **Email**: kunalchandra2506@gmail.com
+- **GitHub**: [https://github.com/Kunalchandra007/IIITDELHI-hackathon](Repo)
+- **Project**: [https://iiitdelhi-hackathon.vercel.app/](Link)
 
 ---
 
